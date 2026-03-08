@@ -1,0 +1,7 @@
+.error {
+    color: red;
+}
+
+label, input, .error {
+    margin-bottom: 10px;
+}
